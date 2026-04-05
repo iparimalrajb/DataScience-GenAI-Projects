@@ -64,7 +64,19 @@ Generative AI:
 
 Below are the key projects included in this portfolio:
 
-> 🔗 Project links will be added here
+### 1. Bad Debt Prediction System
+
+🔗 https://github.com/iparimalrajb/Bad-debt_prediction-System_Project  
+
+Developed a machine learning system to predict potential loan defaulters using a dataset of 91,000+ records, enabling proactive risk management for financial institutions.
+
+- Built and trained multiple ML models to classify high-risk customers  
+- Applied threshold tuning (0.35) to prioritize recall and improve risk detection  
+- Achieved **87% recall** on defaulters (1,303 out of 1,502), minimizing false negatives  
+- Focused on business impact by ensuring maximum identification of high-risk customers  
+- Deployed the solution using **Streamlit** and **AWS EC2** for real-time predictions  
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit, AWS
 
 ---
 
@@ -94,5 +106,3 @@ If you’re interested in collaborating, discussing ideas, or opportunities in D
 - 📧 Email: parimalraj2@gmail.com 
 
 ---
-
-⭐ If you find this repository useful, feel free to star
