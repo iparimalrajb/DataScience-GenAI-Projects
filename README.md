@@ -90,7 +90,7 @@ Below are the key projects included in this portfolio:
 
 If you’re interested in collaborating, discussing ideas, or opportunities in Data Science / AI:
 
-- 💼 LinkedIn: [(Add your link)  ](https://www.linkedin.com/in/parimalrajb/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/parimalrajb/)
 - 📧 Email: parimalraj2@gmail.com 
 
 ---
