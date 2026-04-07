@@ -115,7 +115,7 @@ Developed a data-driven system to monitor Minimum Advertised Price (MAP) violati
 
 ### 4. Intelligent Code RAG
 
-🔗 GitHub link coming soon  
+🔗 [GitHub link coming soon  ](https://github.com/iparimalrajb/Intelligent-Code-RAG)
 
 Built an intelligent code assistant using Retrieval-Augmented Generation (RAG) to enable context-aware code understanding and generation.
 
