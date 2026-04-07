@@ -113,7 +113,7 @@ Developed a data-driven system to monitor Minimum Advertised Price (MAP) violati
 
 ---
 
-### 4. Intelligent Code Assistant (RAG)
+### 4. Intelligent Code RAG
 
 🔗 GitHub link coming soon  
 
