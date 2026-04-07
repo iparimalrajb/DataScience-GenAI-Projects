@@ -78,6 +78,71 @@ Developed a machine learning system to predict potential loan defaulters using a
 
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit, AWS
 
+### 2. AI-Powered Virtual Health Assistant
+
+🔗 GitHub link coming soon  
+
+Developed an AI-powered health monitoring assistant that analyzes patient vitals and provides personalized insights using LLMs and Retrieval-Augmented Generation (RAG).
+
+- Built a RAG-based system integrating LLMs with medical knowledge retrieval using FAISS  
+- Designed semantic search using sentence-transformer embeddings for context-aware responses  
+- Implemented real-time alert system for critical conditions (hypoxia, tachycardia, fever, hypertension)  
+- Developed conversational AI with memory and patient context tracking  
+- Engineered SQLite-based data layer for time-series analysis and health trend tracking  
+- Generated automated PDF reports for structured patient summaries  
+
+**Tech Stack:** Python, LangChain, FAISS, OpenAI, SQLite, Streamlit  
+
+
+---
+
+### 3. MAP Compliance Monitoring System
+
+🔗 GitHub link coming soon  
+
+Developed a data-driven system to monitor Minimum Advertised Price (MAP) violations across marketplaces, enabling businesses to enforce pricing compliance.
+
+- Designed rule-based logic to detect pricing violations based on promotions and seasonal conditions  
+- Built normalized SQL database and optimized queries for large-scale price tracking  
+- Implemented automated violation detection, logging, and reporting pipeline  
+- Analyzed seller pricing trends to identify non-compliant behavior  
+- Enabled data-driven decision-making for compliance enforcement  
+
+**Tech Stack:** Python, SQL, Data Analysis  
+
+
+---
+
+### 4. Intelligent Code Assistant (RAG)
+
+🔗 GitHub link coming soon  
+
+Built an intelligent code assistant using Retrieval-Augmented Generation (RAG) to enable context-aware code understanding and generation.
+
+- Developed end-to-end RAG pipeline integrating LLMs with FAISS-based vector search  
+- Implemented Git-based repository ingestion for automated code indexing  
+- Designed semantic code search for retrieving relevant snippets with contextual explanations  
+- Enabled features like code summarization, debugging assistance, and refactoring suggestions  
+- Improved developer productivity by simplifying code navigation and understanding  
+
+**Tech Stack:** Python, LangChain, FAISS, OpenAI  
+
+
+---
+
+### 5. Bollywood Movie Recommendation System
+
+🔗 https://github.com/iparimalrajb/Bollywood-movie-recommendation-model  
+
+Developed a content-based movie recommendation system that delivers personalized Bollywood movie suggestions using NLP techniques and similarity-based learning.
+
+- Scraped and processed movie data from IMDb using BeautifulSoup and Requests for feature extraction  
+- Built a recommendation engine using TF-IDF vectorization and cosine similarity to identify similar movies  
+- Generated Top-10 personalized movie recommendations based on genres, cast, and metadata  
+- Integrated TMDB API to fetch movie posters, enhancing visual experience and usability  
+- Designed an interactive Streamlit web application for real-time user input and recommendations  
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NLP, Streamlit, TMDB API
 ---
 
 ## 🎯 Goals of This Repository
