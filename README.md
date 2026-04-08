@@ -98,7 +98,7 @@ Developed an AI-powered health monitoring assistant that analyzes patient vitals
 
 ### 3. MAP Compliance Monitoring System
 
-🔗 GitHub link coming soon  
+🔗 https://github.com/iparimalrajb/MAP-Compliance-System
 
 Developed a data-driven system to monitor Minimum Advertised Price (MAP) violations across marketplaces, enabling businesses to enforce pricing compliance.
 
@@ -115,7 +115,7 @@ Developed a data-driven system to monitor Minimum Advertised Price (MAP) violati
 
 ### 4. Intelligent Code RAG
 
-🔗 (https://github.com/iparimalrajb/Intelligent-Code-RAG)
+🔗 https://github.com/iparimalrajb/Intelligent-Code-RAG
 
 Built an intelligent code assistant using Retrieval-Augmented Generation (RAG) to enable context-aware code understanding and generation.
 
