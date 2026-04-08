@@ -80,7 +80,7 @@ Developed a machine learning system to predict potential loan defaulters using a
 
 ### 2. AI-Powered Virtual Health Assistant
 
-🔗 GitHub link coming soon  
+🔗 https://github.com/iparimalrajb/Virtual-Health-Assistant-for-Patient-Monitoring 
 
 Developed an AI-powered health monitoring assistant that analyzes patient vitals and provides personalized insights using LLMs and Retrieval-Augmented Generation (RAG).
 
