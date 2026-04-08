@@ -132,7 +132,7 @@ Built an intelligent code assistant using Retrieval-Augmented Generation (RAG) t
 
 ### 5. Bollywood Movie Recommendation System
 
-🔗 https://github.com/iparimalrajb/Bollywood-movie-recommendation-model  
+🔗 https://github.com/iparimalrajb/Bollywood-movie-recommendation-system 
 
 Developed a content-based movie recommendation system that delivers personalized Bollywood movie suggestions using NLP techniques and similarity-based learning.
 
