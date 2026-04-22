@@ -145,6 +145,20 @@ Developed a content-based movie recommendation system that delivers personalized
 **Tech Stack:** Python, Scikit-learn, Pandas, NLP, Streamlit, TMDB API
 ---
 
+### 6. Hazardous Waste Detection System
+
+🔗 Github link coming soon
+
+Developing an end-to-end real-time hazardous waste detection system using deep learning and computer vision to identify critical safety risks in industrial environments.
+
+- Developed a custom object detection pipeline using YOLOv8 to classify 2 hazard categories: explosive cylinders and toxic shock absorbers 
+- Curated and annotated a 300+ image dataset, applying 3× data augmentation to improve generalization across diverse real-world conditions 
+- Trained and fine-tuned models in PyTorch on 640px images, optimizing performance using mAP and IoU evaluation metrics 
+- Designed a FastAPI-based inference engine capable of real-time detection (30+ FPS) with confidence scoring and class-wise object counts 
+- Implementing a Dockerized deployment pipeline with a web dashboard supporting image uploads and live webcam monitoring for real-time alerts
+
+**Tech Stack:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker, Streamlit
+
 ## 🎯 Goals of This Repository
 
 - Showcase practical implementation of AI/ML concepts  
