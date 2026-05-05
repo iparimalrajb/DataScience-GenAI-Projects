@@ -158,6 +158,19 @@ Developing an end-to-end real-time hazardous waste detection system using deep l
 - Implementing a Dockerized deployment pipeline with a web dashboard supporting image uploads and live webcam monitoring for real-time alerts
 
 **Tech Stack:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker, Streamlit
+---
+
+### 7. Retail Demand Forecasting & Inventory Optimization System
+🔗 https://github.com/iparimalrajb/Retail-Demand-Forecasting-Inventory-Optimization-System 
+
+Developing a Python and SQL project for SKU-level retail demand forecasting, trend and seasonality analysis, and inventory optimization..
+
+- Builds SKU-level time-series demand forecasts using ARIMA and XGBoost-style machine learning models.
+- Performs trend and seasonality analysis to identify weekly patterns, growth, and volatility.
+- Runs an automated forecasting pipeline backed by SQLite SQL transformations.
+- Produces inventory recommendations such as reorder point, safety stock, order-up-to level, and stockout risk.
+
+**Tech Stack:** Python, SQL , Machine Learning, Time series Forecasting, Streamlit
 
 ## 🎯 Goals of This Repository
 
