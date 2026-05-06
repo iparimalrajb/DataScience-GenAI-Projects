@@ -166,6 +166,25 @@ Developing an end-to-end real-time hazardous waste detection system using deep l
 
 ---
 
+### 7. Retail Demand Forecasting & Inventory Optimization System
+
+🔗 [GitHub Repository](https://github.com/iparimalrajb/Retail-Demand-Forecasting-Inventory-Optimization-System)
+
+Developed an end-to-end SKU-level demand forecasting and inventory optimization system using time-series analysis and machine learning to minimize stockouts and optimize inventory levels.
+
+**Key Achievements:**
+- Built SKU-level time-series demand forecasts using ARIMA and XGBoost models for accurate predictions
+- Performed trend and seasonality analysis to identify weekly patterns, growth trajectories, and demand volatility
+- Designed automated forecasting pipeline with SQLite-based SQL transformations for feature engineering
+- Implemented inventory optimization algorithms calculating reorder points, safety stock, order-up-to levels, and stockout risk
+- Developed interactive Streamlit dashboard for real-time forecast visualization and inventory recommendations
+- Created modular Python pipeline with model selection based on validation MAE (Mean Absolute Error)
+- Generated actionable business insights including seasonality summaries and SKU-level metrics
+
+**Tech Stack:** Python, SQL (SQLite), ARIMA, XGBoost, Scikit-learn, Streamlit, Pandas
+
+---
+
 ## 🎯 Goals of This Repository
 
 - Showcase practical implementation of AI/ML concepts
