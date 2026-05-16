@@ -151,7 +151,7 @@ Developed a content-based movie recommendation system that delivers personalized
 
 ### 6. Hazardous Waste Detection System
 
-🔗 *GitHub link coming soon*
+🔗 [GitHub link coming soon](https://github.com/iparimalrajb/Haz-Waste-Detection.git)
 
 Developing an end-to-end real-time hazardous waste detection system using deep learning and computer vision to identify critical safety risks in industrial environments.
 
