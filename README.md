@@ -151,18 +151,20 @@ Developed a content-based movie recommendation system that delivers personalized
 
 ### 6. Hazardous Waste Detection System
 
-🔗 [GitHub Repository](https://github.com/iparimalrajb/Haz-Waste-Detection.git)
+🔗 [GitHub Repository](https://github.com/iparimalrajb/Haz-Waste-Detection)
 
-Developing an end-to-end real-time hazardous waste detection system using deep learning and computer vision to identify critical safety risks in industrial environments.
+Developed an end-to-end real-time hazardous waste detection system using deep learning and computer vision to identify critical safety risks in industrial environments.
 
 **Key Achievements:**
 - Developed a custom object detection pipeline using YOLOv8 to classify 2 hazard categories: explosive cylinders and toxic shock absorbers
-- Curated and annotated a 300+ image dataset, applying 3× data augmentation to improve generalization across diverse real-world conditions
-- Trained and fine-tuned models in PyTorch on 640px images, optimizing performance using mAP and IoU evaluation metrics
-- Designed a FastAPI-based inference engine capable of real-time detection (30+ FPS) with confidence scoring and class-wise object counts
-- Implementing a Dockerized deployment pipeline with a web dashboard supporting image uploads and live webcam monitoring for real-time alerts
+- Used 100+ original images and expanded the dataset to 500+ images through augmentation to improve diversity and generalization
+- Trained and fine-tuned the YOLOv8 model on 640px images, evaluating performance using mAP and IoU metrics
+- Designed a FastAPI-based inference engine for image upload and webcam-based hazardous waste detection
+- Dockerized the application and prepared it for scalable deployment on Google Cloud Platform using Cloud Run
+- Built a lightweight web dashboard for image uploads, live webcam monitoring, and annotated detection results
 
-**Tech Stack:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker, Streamlit
+**Tech Stack:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, Docker, Google Cloud Platform
+
 
 ---
 
